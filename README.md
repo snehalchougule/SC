@@ -1,0 +1,2 @@
+# SC
+just another repository
